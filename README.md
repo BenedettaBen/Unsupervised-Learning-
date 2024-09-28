@@ -6,7 +6,7 @@ In this project, unsupervised learning techniques to detect anomalies and cluste
 
 - Correlation Analysis: Identifying relationships between variables.
 - Anomaly Detection: Using Isolation Forest, Local Outlier Factor (LOF) and PCA to find outliers.
-- Clustering: Grouping similar data points with DBSCAN. \\
+- Clustering: Grouping similar data points with DBSCAN. \
 The goal is to analyze patterns in the dataset and identify any anomalies or natural groupings.
 
 ## Methods used
