@@ -4,9 +4,9 @@
 ## Overview
 In this project, unsupervised learning techniques to detect anomalies and cluster data are explored. The project includes:
 
--Correlation Analysis: Identifying relationships between variables.
--Anomaly Detection: Using Isolation Forest, Local Outlier Factor (LOF) and PCA to find outliers.
--Clustering: Grouping similar data points with DBSCAN.
+- Correlation Analysis: Identifying relationships between variables.
+- Anomaly Detection: Using Isolation Forest, Local Outlier Factor (LOF) and PCA to find outliers.
+- Clustering: Grouping similar data points with DBSCAN. \\
 The goal is to analyze patterns in the dataset and identify any anomalies or natural groupings.
 
 ## Methods used
